@@ -27,7 +27,7 @@ const Navbar = () => {
         </button>
       </div>
 
-      {/* Sidebar */}
+      {/* Navbar */}
       <div
         className={`h-screen w-64 bg-gray-100 shadow-md fixed md:relative z-10 transform ${
           isOpen ? "translate-x-0" : "-translate-x-full"
